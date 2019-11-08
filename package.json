@@ -1,0 +1,20 @@
+{
+  "name": "es.jacksparrot.astar",
+  "version": "1.0.0",
+  "displayName": "A Star pathfinder",
+  "description": "This is a deterministic pathfinder module. It is lightweight and uses an A star algorithm.",
+  "unity": "2018.4",
+  "unityRelease": "0f1",
+  "dependencies": {
+ },
+ "keywords": [
+    "astar",
+    "pathfinding",
+    "navigation"
+  ],
+  "author": {
+    "name": "Francisco Ruiz",
+    "email": "franciscoruizpons@gmail.com",
+    "url": ""
+  } 
+}

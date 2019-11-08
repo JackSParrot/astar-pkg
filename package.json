@@ -1,7 +1,7 @@
 {
   "name": "es.jacksparrot.astar",
   "version": "1.0.0",
-  "displayName": "A Star pathfinder",
+  "displayName": "jacksparrot AStar pathfinder",
   "description": "This is a deterministic pathfinder module. It is lightweight and uses an A star algorithm.",
   "unity": "2018.4",
   "unityRelease": "0f1",
